@@ -10,9 +10,9 @@ export default defineConfig({
             registerType: 'autoUpdate',
             includeAssets: ['favicon.svg', 'favicon.ico', 'robots.txt', 'apple-touch-icon.png'],
             manifest: {
-                name: 'My Awesome App',
-                short_name: 'MyApp',
-                description: 'My Vite + Firebase PWA!',
+                name: 'SpendWisely',
+                short_name: 'SW',
+                description: 'A simple and aesthtic expense tracking and spliting app.',
                 theme_color: '#ffffff',
                 background_color: '#ffffff',
                 display: 'standalone',
